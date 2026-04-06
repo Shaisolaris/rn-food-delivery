@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Food Delivery",
+    "slug": "rn-food-delivery",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": { "backgroundColor": "#1a1a2e" },
+    "ios": { "bundleIdentifier": "com.solaris.rn-food-delivery", "supportsTablet": true },
+    "android": { "package": "com.solaris.rn_food_delivery", "adaptiveIcon": { "backgroundColor": "#1a1a2e" } },
+    "plugins": ["expo-router"]
+  }
+}
