@@ -2,6 +2,16 @@
 
 ![CI](https://github.com/Shaisolaris/rn-food-delivery/actions/workflows/ci.yml/badge.svg)
 
+
+## Quick Start
+
+```bash
+git clone https://github.com/Shaisolaris/rn-food-delivery.git
+cd rn-food-delivery
+npm install --legacy-peer-deps
+npx expo start
+```
+
 React Native food delivery app built with Expo featuring restaurant browsing with menu categories, cart management with quantity controls, real-time order tracking with step-by-step progress, search with cuisine filtering, and a complete checkout flow. Uses Zustand for state management and TypeScript throughout.
 
 ## Stack
