@@ -3,6 +3,9 @@
 ![CI](https://github.com/Shaisolaris/rn-food-delivery/actions/workflows/ci.yml/badge.svg)
 
 
+
+React Native food delivery app with restaurant listings, menu browsing, cart management, order tracking, and real-time status. Expo + TypeScript + Zustand.
+
 ## Quick Start
 
 ```bash
